@@ -1,2 +1,2 @@
 # web
-Web Editörü dersi javascript kaynak dosyaları
+Web Editörü dersi javascript ve typescript kaynak dosyaları
