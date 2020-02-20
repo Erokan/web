@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Web Editörü dersi javascript ve typescript kaynak dosyaları test test Web Editörü dersi javascript ve typescript kaynak dosyaları",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erokan/web.git"
+  },
+  "author": "Erokan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Erokan/web/issues"
+  },
+  "homepage": "https://github.com/Erokan/web#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "colors": "^1.4.0"
+  }
+}
