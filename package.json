@@ -1,7 +1,7 @@
 {
-  "name": "web",
+  "name": "web-editoru-dersi",
   "version": "1.0.0",
-  "description": "Web Editörü dersi javascript ve typescript kaynak dosyaları test test Web Editörü dersi javascript ve typescript kaynak dosyaları",
+  "description": "Web Editörü dersi javascript ve typescript kaynak dosyaları",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
