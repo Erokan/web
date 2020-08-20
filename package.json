@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Erokan/web#readme",
   "dependencies": {
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "colors": "^1.4.0"
   }
 }
